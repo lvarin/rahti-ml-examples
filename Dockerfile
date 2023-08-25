@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:2.7.0-gpu
+FROM tensorflow/tensorflow:2.13.0-gpu
 
 ENV HOME=/app
 WORKDIR $HOME
