@@ -145,7 +145,7 @@ parameters:
 - description: The URL of repository with the application code (change the default only if you know what you are doing).
   displayName: Source Repository URL
   name: SOURCE_REPOSITORY_URL
-  value: https://github.com/tdeneke/rahti-ml-examples
+  value: https://github.com/lvarin/rahti-ml-examples
   required: true
 
 - description: The branch of the source repository (tf2-imdb-cuda).
